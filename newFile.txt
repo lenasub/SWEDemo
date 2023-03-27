@@ -1,0 +1,3 @@
+Hi, This is a newFile for homework of SE class
+
+edited version. .
